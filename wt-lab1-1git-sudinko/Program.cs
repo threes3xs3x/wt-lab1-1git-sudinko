@@ -1,4 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
+Console.WriteLine("Логика для wt-lab1-1git-sudinko запущена");
 
 // Add services to the container.
 builder.Services.AddRazorPages();
